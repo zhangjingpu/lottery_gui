@@ -1,0 +1,9 @@
+D:\Work\workspace\workspace_visualstudio\lottery\Lucky Draw\Lucky Draw\obj\Debug\神仙抽奖系统.exe
+D:\Work\workspace\workspace_visualstudio\lottery\Lucky Draw\Lucky Draw\obj\Debug\神仙抽奖系统.pdb
+D:\Work\workspace\workspace_visualstudio\lottery\Lucky Draw\Lucky Draw\bin\Debug\神仙抽奖系统.exe
+D:\Work\workspace\workspace_visualstudio\lottery\Lucky Draw\Lucky Draw\bin\Debug\神仙抽奖系统.pdb
+D:\Work\workspace\workspace_visualstudio\lottery\Lucky Draw\Lucky Draw\obj\Debug\Lucky_Draw.LD_DataManage.resources
+D:\Work\workspace\workspace_visualstudio\lottery\Lucky Draw\Lucky Draw\obj\Debug\Lucky_Draw.LD_Main.resources
+D:\Work\workspace\workspace_visualstudio\lottery\Lucky Draw\Lucky Draw\obj\Debug\Lucky_Draw.LD_Setting.resources
+D:\Work\workspace\workspace_visualstudio\lottery\Lucky Draw\Lucky Draw\obj\Debug\Lucky_Draw.Properties.Resources.resources
+D:\Work\workspace\workspace_visualstudio\lottery\Lucky Draw\Lucky Draw\obj\Debug\Lucky Draw.csproj.GenerateResource.Cache

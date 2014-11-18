@@ -1,0 +1,59 @@
+E:\仿QQ2009游戏\CRD.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\仿QQ2009游戏\CRD.Common\obj\Debug\CRD.Common.dll
+E:\仿QQ2009游戏\CRD.Common\obj\Debug\CRD.Common.pdb
+E:\仿QQ2009游戏\CRD.Common\bin\Debug\CRD.Common.dll
+E:\仿QQ2009游戏\CRD.Common\bin\Debug\CRD.Common.pdb
+E:\资料\项目\%E4%BB%BFQQ2009%E6%B8%B8%E6%88%8F\CRD.Common\bin\Debug\CRD.Common.dll.config
+E:\资料\项目\%E4%BB%BFQQ2009%E6%B8%B8%E6%88%8F\CRD.Common\bin\Debug\CRD.Common.dll
+E:\资料\项目\%E4%BB%BFQQ2009%E6%B8%B8%E6%88%8F\CRD.Common\bin\Debug\CRD.Common.pdb
+E:\资料\项目\%E4%BB%BFQQ2009%E6%B8%B8%E6%88%8F\CRD.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\资料\项目\%E4%BB%BFQQ2009%E6%B8%B8%E6%88%8F\CRD.Common\obj\Debug\CRD.Common.dll
+E:\资料\项目\%E4%BB%BFQQ2009%E6%B8%B8%E6%88%8F\CRD.Common\obj\Debug\CRD.Common.pdb
+E:\工作\ItemCode\3g没有加管理\3g\CRD.Common\bin\Debug\CRD.Common.dll.config
+E:\工作\ItemCode\3g没有加管理\3g\CRD.Common\bin\Debug\CRD.Common.dll
+E:\工作\ItemCode\3g没有加管理\3g\CRD.Common\bin\Debug\CRD.Common.pdb
+E:\工作\ItemCode\3g没有加管理\3g\CRD.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\工作\ItemCode\3g没有加管理\3g\CRD.Common\obj\Debug\CRD.Common.dll
+E:\工作\ItemCode\3g没有加管理\3g\CRD.Common\obj\Debug\CRD.Common.pdb
+E:\工作\ItemCode\3g\3g\CRD.Common\bin\Debug\CRD.Common.dll.config
+E:\工作\ItemCode\3g\3g\CRD.Common\bin\Debug\CRD.Common.dll
+E:\工作\ItemCode\3g\3g\CRD.Common\bin\Debug\CRD.Common.pdb
+E:\工作\ItemCode\3g\3g\CRD.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\工作\ItemCode\3g\3g\CRD.Common\obj\Debug\CRD.Common.dll
+E:\工作\ItemCode\3g\3g\CRD.Common\obj\Debug\CRD.Common.pdb
+E:\工作\ItemCode\3g\CRD.Common\bin\Debug\CRD.Common.dll.config
+E:\工作\ItemCode\3g\CRD.Common\bin\Debug\CRD.Common.dll
+E:\工作\ItemCode\3g\CRD.Common\bin\Debug\CRD.Common.pdb
+E:\工作\ItemCode\3g\CRD.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\工作\ItemCode\3g\CRD.Common\obj\Debug\CRD.Common.dll
+E:\工作\ItemCode\3g\CRD.Common\obj\Debug\CRD.Common.pdb
+E:\工作\ItemCode\Integrated Payment\CRD.Common\bin\Debug\CRD.Common.dll.config
+E:\工作\ItemCode\Integrated Payment\CRD.Common\bin\Debug\CRD.Common.dll
+E:\工作\ItemCode\Integrated Payment\CRD.Common\bin\Debug\CRD.Common.pdb
+E:\工作\ItemCode\Integrated Payment\CRD.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\工作\ItemCode\Integrated Payment\CRD.Common\obj\Debug\CRD.Common.dll
+E:\工作\ItemCode\Integrated Payment\CRD.Common\obj\Debug\CRD.Common.pdb
+E:\项目\未分类\皮肤QQ\皮肤QQ\CRD.Common\bin\Debug\CRD.Common.dll.config
+E:\项目\未分类\皮肤QQ\皮肤QQ\CRD.Common\bin\Debug\CRD.Common.dll
+E:\项目\未分类\皮肤QQ\皮肤QQ\CRD.Common\bin\Debug\CRD.Common.pdb
+E:\项目\未分类\皮肤QQ\皮肤QQ\CRD.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\项目\未分类\皮肤QQ\皮肤QQ\CRD.Common\obj\Debug\CRD.Common.dll
+E:\项目\未分类\皮肤QQ\皮肤QQ\CRD.Common\obj\Debug\CRD.Common.pdb
+C:\Documents and Settings\yqzhang\桌面\QQskin\CRD.Common\bin\Debug\CRD.Common.dll.config
+C:\Documents and Settings\yqzhang\桌面\QQskin\CRD.Common\bin\Debug\CRD.Common.dll
+C:\Documents and Settings\yqzhang\桌面\QQskin\CRD.Common\bin\Debug\CRD.Common.pdb
+C:\Documents and Settings\yqzhang\桌面\QQskin\CRD.Common\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\yqzhang\桌面\QQskin\CRD.Common\obj\Debug\CRD.Common.dll
+C:\Documents and Settings\yqzhang\桌面\QQskin\CRD.Common\obj\Debug\CRD.Common.pdb
+E:\工作\Lottery\Lottery\CRD.Common\bin\Debug\CRD.Common.dll.config
+E:\工作\Lottery\Lottery\CRD.Common\bin\Debug\CRD.Common.dll
+E:\工作\Lottery\Lottery\CRD.Common\bin\Debug\CRD.Common.pdb
+E:\工作\Lottery\Lottery\CRD.Common\obj\Debug\ResolveAssemblyReference.cache
+E:\工作\Lottery\Lottery\CRD.Common\obj\Debug\CRD.Common.dll
+E:\工作\Lottery\Lottery\CRD.Common\obj\Debug\CRD.Common.pdb
+D:\Work\workspace\workspace_visualstudio\lottery\Lottery\CRD.Common\bin\Debug\CRD.Common.dll.config
+D:\Work\workspace\workspace_visualstudio\lottery\Lottery\CRD.Common\bin\Debug\CRD.Common.dll
+D:\Work\workspace\workspace_visualstudio\lottery\Lottery\CRD.Common\bin\Debug\CRD.Common.pdb
+D:\Work\workspace\workspace_visualstudio\lottery\Lottery\CRD.Common\obj\Debug\CRD.Common.csprojResolveAssemblyReference.cache
+D:\Work\workspace\workspace_visualstudio\lottery\Lottery\CRD.Common\obj\Debug\CRD.Common.dll
+D:\Work\workspace\workspace_visualstudio\lottery\Lottery\CRD.Common\obj\Debug\CRD.Common.pdb

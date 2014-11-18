@@ -1,0 +1,15 @@
+D:\Work\workspace\workspace_visualstudio\lottery\ParkLottery\ParkLottery\obj\Debug\ParkLottery.csprojResolveAssemblyReference.cache
+D:\Work\workspace\workspace_visualstudio\lottery\ParkLottery\ParkLottery\obj\Debug\ParkLottery.frmDJ.resources
+D:\Work\workspace\workspace_visualstudio\lottery\ParkLottery\ParkLottery\obj\Debug\ParkLottery.frmNumber.resources
+D:\Work\workspace\workspace_visualstudio\lottery\ParkLottery\ParkLottery\obj\Debug\ParkLottery.FrmShunXuHao.resources
+D:\Work\workspace\workspace_visualstudio\lottery\ParkLottery\ParkLottery\obj\Debug\ParkLottery.FrmXH.resources
+D:\Work\workspace\workspace_visualstudio\lottery\ParkLottery\ParkLottery\obj\Debug\ParkLottery.FrmMain.resources
+D:\Work\workspace\workspace_visualstudio\lottery\ParkLottery\ParkLottery\obj\Debug\ParkLottery.FrmZJ.resources
+D:\Work\workspace\workspace_visualstudio\lottery\ParkLottery\ParkLottery\obj\Debug\ParkLottery.ImportPerson.resources
+D:\Work\workspace\workspace_visualstudio\lottery\ParkLottery\ParkLottery\obj\Debug\ParkLottery.Properties.Resources.resources
+D:\Work\workspace\workspace_visualstudio\lottery\ParkLottery\ParkLottery\obj\Debug\ParkLottery.UserInfoAdd.resources
+D:\Work\workspace\workspace_visualstudio\lottery\ParkLottery\ParkLottery\obj\Debug\ParkLottery.csproj.GenerateResource.Cache
+D:\Work\workspace\workspace_visualstudio\lottery\ParkLottery\ParkLottery\bin\Debug\ParkLottery.exe
+D:\Work\workspace\workspace_visualstudio\lottery\ParkLottery\ParkLottery\bin\Debug\ParkLottery.pdb
+D:\Work\workspace\workspace_visualstudio\lottery\ParkLottery\ParkLottery\obj\Debug\ParkLottery.exe
+D:\Work\workspace\workspace_visualstudio\lottery\ParkLottery\ParkLottery\obj\Debug\ParkLottery.pdb

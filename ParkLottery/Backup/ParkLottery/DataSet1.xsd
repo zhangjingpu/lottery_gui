@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSet1" targetNamespace="http://tempuri.org/DataSet1.xsd" xmlns:mstns="http://tempuri.org/DataSet1.xsd" xmlns="http://tempuri.org/DataSet1.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections>
+        </Connections>
+        <Tables>
+        </Tables>
+        <Sources>
+        </Sources>
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSet1" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:Generator_UserDSName="DataSet1" msprop:Generator_DataSetName="DataSet1">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="ZeGeTable" msprop:Generator_UserTableName="ZeGeTable" msprop:Generator_RowDeletedName="ZeGeTableRowDeleted" msprop:Generator_RowChangedName="ZeGeTableRowChanged" msprop:Generator_RowClassName="ZeGeTableRow" msprop:Generator_RowChangingName="ZeGeTableRowChanging" msprop:Generator_RowEvArgName="ZeGeTableRowChangeEvent" msprop:Generator_RowEvHandlerName="ZeGeTableRowChangeEventHandler" msprop:Generator_TableClassName="ZeGeTableDataTable" msprop:Generator_TableVarName="tableZeGeTable" msprop:Generator_RowDeletingName="ZeGeTableRowDeleting" msprop:Generator_TablePropName="ZeGeTable">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Name" msprop:Generator_UserColumnName="Name" msprop:Generator_ColumnVarNameInTable="columnName" msprop:Generator_ColumnPropNameInRow="Name" msprop:Generator_ColumnPropNameInTable="NameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="ZiGeHao" msprop:Generator_UserColumnName="ZiGeHao" msprop:Generator_ColumnVarNameInTable="columnZiGeHao" msprop:Generator_ColumnPropNameInRow="ZiGeHao" msprop:Generator_ColumnPropNameInTable="ZiGeHaoColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Name1" msprop:Generator_UserColumnName="Name1" msprop:Generator_ColumnVarNameInTable="columnName1" msprop:Generator_ColumnPropNameInRow="Name1" msprop:Generator_ColumnPropNameInTable="Name1Column" type="xs:string" minOccurs="0" />
+              <xs:element name="ZiGeHao1" msprop:Generator_UserColumnName="ZiGeHao1" msprop:Generator_ColumnVarNameInTable="columnZiGeHao1" msprop:Generator_ColumnPropNameInRow="ZiGeHao1" msprop:Generator_ColumnPropNameInTable="ZiGeHao1Column" type="xs:string" minOccurs="0" />
+              <xs:element name="Name2" msprop:Generator_UserColumnName="Name2" msprop:Generator_ColumnVarNameInTable="columnName2" msprop:Generator_ColumnPropNameInRow="Name2" msprop:Generator_ColumnPropNameInTable="Name2Column" type="xs:string" minOccurs="0" />
+              <xs:element name="ZiGeHao2" msprop:Generator_UserColumnName="ZiGeHao2" msprop:Generator_ColumnVarNameInTable="columnZiGeHao2" msprop:Generator_ColumnPropNameInRow="ZiGeHao2" msprop:Generator_ColumnPropNameInTable="ZiGeHao2Column" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="PZhTable" msprop:Generator_UserTableName="PZhTable" msprop:Generator_RowDeletedName="PZhTableRowDeleted" msprop:Generator_TableClassName="PZhTableDataTable" msprop:Generator_RowChangedName="PZhTableRowChanged" msprop:Generator_RowClassName="PZhTableRow" msprop:Generator_RowChangingName="PZhTableRowChanging" msprop:Generator_RowEvArgName="PZhTableRowChangeEvent" msprop:Generator_RowEvHandlerName="PZhTableRowChangeEventHandler" msprop:Generator_TablePropName="PZhTable" msprop:Generator_TableVarName="tablePZhTable" msprop:Generator_RowDeletingName="PZhTableRowDeleting">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Name" msprop:Generator_UserColumnName="Name" msprop:Generator_ColumnPropNameInRow="Name" msprop:Generator_ColumnVarNameInTable="columnName" msprop:Generator_ColumnPropNameInTable="NameColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Number" msprop:Generator_UserColumnName="Number" msprop:Generator_ColumnPropNameInRow="Number" msprop:Generator_ColumnVarNameInTable="columnNumber" msprop:Generator_ColumnPropNameInTable="NumberColumn" type="xs:string" minOccurs="0" />
+              <xs:element name="Name1" msprop:Generator_UserColumnName="Name1" msprop:Generator_ColumnPropNameInRow="Name1" msprop:Generator_ColumnVarNameInTable="columnName1" msprop:Generator_ColumnPropNameInTable="Name1Column" type="xs:string" minOccurs="0" />
+              <xs:element name="Number1" msprop:Generator_UserColumnName="Number1" msprop:Generator_ColumnPropNameInRow="Number1" msprop:Generator_ColumnVarNameInTable="columnNumber1" msprop:Generator_ColumnPropNameInTable="Number1Column" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

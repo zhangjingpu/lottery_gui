@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lucky Draw", "Lucky Draw\Lucky Draw.csproj", "{E3FAE22E-2C5E-4B76-8C88-14AB5E962C11}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "LD_Steup", "LD_Steup\LD_Steup.vdproj", "{86BAA211-F907-475A-8014-0762AE5D70F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E3FAE22E-2C5E-4B76-8C88-14AB5E962C11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3FAE22E-2C5E-4B76-8C88-14AB5E962C11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3FAE22E-2C5E-4B76-8C88-14AB5E962C11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3FAE22E-2C5E-4B76-8C88-14AB5E962C11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86BAA211-F907-475A-8014-0762AE5D70F9}.Debug|Any CPU.ActiveCfg = Debug
+		{86BAA211-F907-475A-8014-0762AE5D70F9}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

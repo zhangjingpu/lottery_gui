@@ -1,0 +1,192 @@
+E:\仿QQ2009游戏\CRD.WinUI\bin\Debug\CRD.WinUI.dll
+E:\仿QQ2009游戏\CRD.WinUI\bin\Debug\CRD.WinUI.pdb
+E:\仿QQ2009游戏\CRD.WinUI\bin\Debug\CRD.Common.dll
+E:\仿QQ2009游戏\CRD.WinUI\bin\Debug\CRD.Common.pdb
+E:\仿QQ2009游戏\CRD.WinUI\obj\Debug\ResolveAssemblyReference.cache
+E:\仿QQ2009游戏\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FormBase.resources
+E:\仿QQ2009游戏\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MainForm.resources
+E:\仿QQ2009游戏\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MessageBoxForm.resources
+E:\仿QQ2009游戏\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.SkinForm.resources
+E:\仿QQ2009游戏\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.TipForm.resources
+E:\仿QQ2009游戏\CRD.WinUI\obj\Debug\CRD.WinUI.Misc.Button.resources
+E:\仿QQ2009游戏\CRD.WinUI\obj\Debug\CRD.WinUI.Properties.Resources.resources
+E:\仿QQ2009游戏\CRD.WinUI\obj\Debug\CRD.WinUI.csproj.GenerateResource.Cache
+E:\仿QQ2009游戏\CRD.WinUI\obj\Debug\CRD.WinUI.dll
+E:\仿QQ2009游戏\CRD.WinUI\obj\Debug\CRD.WinUI.pdb
+E:\资料\项目\%E4%BB%BFQQ2009%E6%B8%B8%E6%88%8F\CRD.WinUI\bin\Debug\CRD.WinUI.dll.config
+E:\资料\项目\%E4%BB%BFQQ2009%E6%B8%B8%E6%88%8F\CRD.WinUI\bin\Debug\CRD.WinUI.dll
+E:\资料\项目\%E4%BB%BFQQ2009%E6%B8%B8%E6%88%8F\CRD.WinUI\bin\Debug\CRD.WinUI.pdb
+E:\资料\项目\%E4%BB%BFQQ2009%E6%B8%B8%E6%88%8F\CRD.WinUI\bin\Debug\CRD.Common.dll
+E:\资料\项目\%E4%BB%BFQQ2009%E6%B8%B8%E6%88%8F\CRD.WinUI\bin\Debug\CRD.Common.pdb
+E:\资料\项目\%E4%BB%BFQQ2009%E6%B8%B8%E6%88%8F\CRD.WinUI\obj\Debug\ResolveAssemblyReference.cache
+E:\资料\项目\%E4%BB%BFQQ2009%E6%B8%B8%E6%88%8F\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EntryForm.resources
+E:\资料\项目\%E4%BB%BFQQ2009%E6%B8%B8%E6%88%8F\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FormBase.resources
+E:\资料\项目\%E4%BB%BFQQ2009%E6%B8%B8%E6%88%8F\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FunctionFormBase.resources
+E:\资料\项目\%E4%BB%BFQQ2009%E6%B8%B8%E6%88%8F\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MainForm.resources
+E:\资料\项目\%E4%BB%BFQQ2009%E6%B8%B8%E6%88%8F\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MessageBoxForm.resources
+E:\资料\项目\%E4%BB%BFQQ2009%E6%B8%B8%E6%88%8F\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.SkinForm.resources
+E:\资料\项目\%E4%BB%BFQQ2009%E6%B8%B8%E6%88%8F\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.TipForm.resources
+E:\资料\项目\%E4%BB%BFQQ2009%E6%B8%B8%E6%88%8F\CRD.WinUI\obj\Debug\CRD.WinUI.Misc.Button.resources
+E:\资料\项目\%E4%BB%BFQQ2009%E6%B8%B8%E6%88%8F\CRD.WinUI\obj\Debug\CRD.WinUI.Properties.Resources.resources
+E:\资料\项目\%E4%BB%BFQQ2009%E6%B8%B8%E6%88%8F\CRD.WinUI\obj\Debug\CRD.WinUI.csproj.GenerateResource.Cache
+E:\资料\项目\%E4%BB%BFQQ2009%E6%B8%B8%E6%88%8F\CRD.WinUI\obj\Debug\CRD.WinUI.dll
+E:\资料\项目\%E4%BB%BFQQ2009%E6%B8%B8%E6%88%8F\CRD.WinUI\obj\Debug\CRD.WinUI.pdb
+E:\工作\ItemCode\3g没有加管理\3g\CRD.WinUI\bin\Debug\CRD.WinUI.dll.config
+E:\工作\ItemCode\3g没有加管理\3g\CRD.WinUI\bin\Debug\CRD.WinUI.dll
+E:\工作\ItemCode\3g没有加管理\3g\CRD.WinUI\bin\Debug\CRD.WinUI.pdb
+E:\工作\ItemCode\3g没有加管理\3g\CRD.WinUI\bin\Debug\CRD.Common.dll
+E:\工作\ItemCode\3g没有加管理\3g\CRD.WinUI\bin\Debug\CRD.Common.pdb
+E:\工作\ItemCode\3g没有加管理\3g\CRD.WinUI\obj\Debug\ResolveAssemblyReference.cache
+E:\工作\ItemCode\3g没有加管理\3g\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EntryForm.resources
+E:\工作\ItemCode\3g没有加管理\3g\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FormBase.resources
+E:\工作\ItemCode\3g没有加管理\3g\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FunctionFormBase.resources
+E:\工作\ItemCode\3g没有加管理\3g\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MainForm.resources
+E:\工作\ItemCode\3g没有加管理\3g\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MessageBoxForm.resources
+E:\工作\ItemCode\3g没有加管理\3g\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.SkinForm.resources
+E:\工作\ItemCode\3g没有加管理\3g\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.TipForm.resources
+E:\工作\ItemCode\3g没有加管理\3g\CRD.WinUI\obj\Debug\CRD.WinUI.Misc.Button.resources
+E:\工作\ItemCode\3g没有加管理\3g\CRD.WinUI\obj\Debug\CRD.WinUI.Properties.Resources.resources
+E:\工作\ItemCode\3g没有加管理\3g\CRD.WinUI\obj\Debug\CRD.WinUI.csproj.GenerateResource.Cache
+E:\工作\ItemCode\3g没有加管理\3g\CRD.WinUI\obj\Debug\CRD.WinUI.dll
+E:\工作\ItemCode\3g没有加管理\3g\CRD.WinUI\obj\Debug\CRD.WinUI.pdb
+E:\工作\ItemCode\3g\3g\CRD.WinUI\bin\Debug\CRD.WinUI.dll.config
+E:\工作\ItemCode\3g\3g\CRD.WinUI\bin\Debug\CRD.WinUI.dll
+E:\工作\ItemCode\3g\3g\CRD.WinUI\bin\Debug\CRD.WinUI.pdb
+E:\工作\ItemCode\3g\3g\CRD.WinUI\bin\Debug\CRD.Common.dll
+E:\工作\ItemCode\3g\3g\CRD.WinUI\bin\Debug\CRD.Common.pdb
+E:\工作\ItemCode\3g\3g\CRD.WinUI\obj\Debug\ResolveAssemblyReference.cache
+E:\工作\ItemCode\3g\3g\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EntryForm.resources
+E:\工作\ItemCode\3g\3g\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FormBase.resources
+E:\工作\ItemCode\3g\3g\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FunctionFormBase.resources
+E:\工作\ItemCode\3g\3g\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MainForm.resources
+E:\工作\ItemCode\3g\3g\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MessageBoxForm.resources
+E:\工作\ItemCode\3g\3g\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.SkinForm.resources
+E:\工作\ItemCode\3g\3g\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.TipForm.resources
+E:\工作\ItemCode\3g\3g\CRD.WinUI\obj\Debug\CRD.WinUI.Misc.Button.resources
+E:\工作\ItemCode\3g\3g\CRD.WinUI\obj\Debug\CRD.WinUI.Properties.Resources.resources
+E:\工作\ItemCode\3g\3g\CRD.WinUI\obj\Debug\CRD.WinUI.csproj.GenerateResource.Cache
+E:\工作\ItemCode\3g\3g\CRD.WinUI\obj\Debug\CRD.WinUI.dll
+E:\工作\ItemCode\3g\3g\CRD.WinUI\obj\Debug\CRD.WinUI.pdb
+E:\工作\ItemCode\3g\CRD.WinUI\bin\Debug\CRD.WinUI.dll.config
+E:\工作\ItemCode\3g\CRD.WinUI\bin\Debug\CRD.WinUI.dll
+E:\工作\ItemCode\3g\CRD.WinUI\bin\Debug\CRD.WinUI.pdb
+E:\工作\ItemCode\3g\CRD.WinUI\bin\Debug\CRD.Common.dll
+E:\工作\ItemCode\3g\CRD.WinUI\bin\Debug\CRD.Common.pdb
+E:\工作\ItemCode\3g\CRD.WinUI\obj\Debug\ResolveAssemblyReference.cache
+E:\工作\ItemCode\3g\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EntryForm.resources
+E:\工作\ItemCode\3g\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FormBase.resources
+E:\工作\ItemCode\3g\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FunctionFormBase.resources
+E:\工作\ItemCode\3g\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MainForm.resources
+E:\工作\ItemCode\3g\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MessageBoxForm.resources
+E:\工作\ItemCode\3g\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.SkinForm.resources
+E:\工作\ItemCode\3g\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.TipForm.resources
+E:\工作\ItemCode\3g\CRD.WinUI\obj\Debug\CRD.WinUI.Misc.Button.resources
+E:\工作\ItemCode\3g\CRD.WinUI\obj\Debug\CRD.WinUI.Properties.Resources.resources
+E:\工作\ItemCode\3g\CRD.WinUI\obj\Debug\CRD.WinUI.csproj.GenerateResource.Cache
+E:\工作\ItemCode\3g\CRD.WinUI\obj\Debug\CRD.WinUI.dll
+E:\工作\ItemCode\3g\CRD.WinUI\obj\Debug\CRD.WinUI.pdb
+E:\工作\ItemCode\Integrated Payment\CRD.WinUI\bin\Debug\CRD.WinUI.dll.config
+E:\工作\ItemCode\Integrated Payment\CRD.WinUI\bin\Debug\CRD.WinUI.dll
+E:\工作\ItemCode\Integrated Payment\CRD.WinUI\bin\Debug\CRD.WinUI.pdb
+E:\工作\ItemCode\Integrated Payment\CRD.WinUI\bin\Debug\CRD.Common.dll
+E:\工作\ItemCode\Integrated Payment\CRD.WinUI\bin\Debug\CRD.Common.pdb
+E:\工作\ItemCode\Integrated Payment\CRD.WinUI\obj\Debug\ResolveAssemblyReference.cache
+E:\工作\ItemCode\Integrated Payment\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EntryForm.resources
+E:\工作\ItemCode\Integrated Payment\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FormBase.resources
+E:\工作\ItemCode\Integrated Payment\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FunctionFormBase.resources
+E:\工作\ItemCode\Integrated Payment\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MainForm.resources
+E:\工作\ItemCode\Integrated Payment\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MessageBoxForm.resources
+E:\工作\ItemCode\Integrated Payment\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.SkinForm.resources
+E:\工作\ItemCode\Integrated Payment\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.TipForm.resources
+E:\工作\ItemCode\Integrated Payment\CRD.WinUI\obj\Debug\CRD.WinUI.Misc.Button.resources
+E:\工作\ItemCode\Integrated Payment\CRD.WinUI\obj\Debug\CRD.WinUI.Properties.Resources.resources
+E:\工作\ItemCode\Integrated Payment\CRD.WinUI\obj\Debug\CRD.WinUI.csproj.GenerateResource.Cache
+E:\工作\ItemCode\Integrated Payment\CRD.WinUI\obj\Debug\CRD.WinUI.dll
+E:\工作\ItemCode\Integrated Payment\CRD.WinUI\obj\Debug\CRD.WinUI.pdb
+E:\工作\ItemCode\Integrated Payment\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FormBase1.resources
+E:\工作\ItemCode\Integrated Payment\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EnterUserControl.resources
+E:\工作\ItemCode\Integrated Payment\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EnterFrom1.resources
+E:\项目\未分类\皮肤QQ\皮肤QQ\CRD.WinUI\bin\Debug\CRD.WinUI.dll.config
+E:\项目\未分类\皮肤QQ\皮肤QQ\CRD.WinUI\bin\Debug\CRD.WinUI.dll
+E:\项目\未分类\皮肤QQ\皮肤QQ\CRD.WinUI\bin\Debug\CRD.WinUI.pdb
+E:\项目\未分类\皮肤QQ\皮肤QQ\CRD.WinUI\bin\Debug\CRD.Common.dll
+E:\项目\未分类\皮肤QQ\皮肤QQ\CRD.WinUI\bin\Debug\CRD.Common.pdb
+E:\项目\未分类\皮肤QQ\皮肤QQ\CRD.WinUI\obj\Debug\ResolveAssemblyReference.cache
+E:\项目\未分类\皮肤QQ\皮肤QQ\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EnterFrom1.resources
+E:\项目\未分类\皮肤QQ\皮肤QQ\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EnterUserControl.resources
+E:\项目\未分类\皮肤QQ\皮肤QQ\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EntryForm.resources
+E:\项目\未分类\皮肤QQ\皮肤QQ\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FormBase.resources
+E:\项目\未分类\皮肤QQ\皮肤QQ\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FormBase1.resources
+E:\项目\未分类\皮肤QQ\皮肤QQ\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FunctionFormBase.resources
+E:\项目\未分类\皮肤QQ\皮肤QQ\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MainForm.resources
+E:\项目\未分类\皮肤QQ\皮肤QQ\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MessageBoxForm.resources
+E:\项目\未分类\皮肤QQ\皮肤QQ\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.SkinForm.resources
+E:\项目\未分类\皮肤QQ\皮肤QQ\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.TipForm.resources
+E:\项目\未分类\皮肤QQ\皮肤QQ\CRD.WinUI\obj\Debug\CRD.WinUI.Misc.Button.resources
+E:\项目\未分类\皮肤QQ\皮肤QQ\CRD.WinUI\obj\Debug\CRD.WinUI.Properties.Resources.resources
+E:\项目\未分类\皮肤QQ\皮肤QQ\CRD.WinUI\obj\Debug\CRD.WinUI.csproj.GenerateResource.Cache
+E:\项目\未分类\皮肤QQ\皮肤QQ\CRD.WinUI\obj\Debug\CRD.WinUI.dll
+E:\项目\未分类\皮肤QQ\皮肤QQ\CRD.WinUI\obj\Debug\CRD.WinUI.pdb
+C:\Documents and Settings\yqzhang\桌面\QQskin\CRD.WinUI\bin\Debug\CRD.WinUI.dll.config
+C:\Documents and Settings\yqzhang\桌面\QQskin\CRD.WinUI\bin\Debug\CRD.WinUI.dll
+C:\Documents and Settings\yqzhang\桌面\QQskin\CRD.WinUI\bin\Debug\CRD.WinUI.pdb
+C:\Documents and Settings\yqzhang\桌面\QQskin\CRD.WinUI\bin\Debug\CRD.Common.dll
+C:\Documents and Settings\yqzhang\桌面\QQskin\CRD.WinUI\bin\Debug\CRD.Common.pdb
+C:\Documents and Settings\yqzhang\桌面\QQskin\CRD.WinUI\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\yqzhang\桌面\QQskin\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EnterFrom1.resources
+C:\Documents and Settings\yqzhang\桌面\QQskin\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EnterUserControl.resources
+C:\Documents and Settings\yqzhang\桌面\QQskin\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EntryForm.resources
+C:\Documents and Settings\yqzhang\桌面\QQskin\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FormBase.resources
+C:\Documents and Settings\yqzhang\桌面\QQskin\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FormBase1.resources
+C:\Documents and Settings\yqzhang\桌面\QQskin\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FunctionFormBase.resources
+C:\Documents and Settings\yqzhang\桌面\QQskin\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MainForm.resources
+C:\Documents and Settings\yqzhang\桌面\QQskin\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MessageBoxForm.resources
+C:\Documents and Settings\yqzhang\桌面\QQskin\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.SkinForm.resources
+C:\Documents and Settings\yqzhang\桌面\QQskin\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.TipForm.resources
+C:\Documents and Settings\yqzhang\桌面\QQskin\CRD.WinUI\obj\Debug\CRD.WinUI.Misc.Button.resources
+C:\Documents and Settings\yqzhang\桌面\QQskin\CRD.WinUI\obj\Debug\CRD.WinUI.Properties.Resources.resources
+C:\Documents and Settings\yqzhang\桌面\QQskin\CRD.WinUI\obj\Debug\CRD.WinUI.csproj.GenerateResource.Cache
+C:\Documents and Settings\yqzhang\桌面\QQskin\CRD.WinUI\obj\Debug\CRD.WinUI.dll
+C:\Documents and Settings\yqzhang\桌面\QQskin\CRD.WinUI\obj\Debug\CRD.WinUI.pdb
+E:\工作\Lottery\Lottery\CRD.WinUI\bin\Debug\CRD.WinUI.dll.config
+E:\工作\Lottery\Lottery\CRD.WinUI\bin\Debug\CRD.WinUI.dll
+E:\工作\Lottery\Lottery\CRD.WinUI\bin\Debug\CRD.WinUI.pdb
+E:\工作\Lottery\Lottery\CRD.WinUI\bin\Debug\CRD.Common.dll
+E:\工作\Lottery\Lottery\CRD.WinUI\bin\Debug\CRD.Common.pdb
+E:\工作\Lottery\Lottery\CRD.WinUI\obj\Debug\ResolveAssemblyReference.cache
+E:\工作\Lottery\Lottery\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EnterFrom1.resources
+E:\工作\Lottery\Lottery\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EnterUserControl.resources
+E:\工作\Lottery\Lottery\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EntryForm.resources
+E:\工作\Lottery\Lottery\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FormBase.resources
+E:\工作\Lottery\Lottery\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FormBase1.resources
+E:\工作\Lottery\Lottery\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FunctionFormBase.resources
+E:\工作\Lottery\Lottery\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MainForm.resources
+E:\工作\Lottery\Lottery\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MessageBoxForm.resources
+E:\工作\Lottery\Lottery\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.SkinForm.resources
+E:\工作\Lottery\Lottery\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.TipForm.resources
+E:\工作\Lottery\Lottery\CRD.WinUI\obj\Debug\CRD.WinUI.Misc.Button.resources
+E:\工作\Lottery\Lottery\CRD.WinUI\obj\Debug\CRD.WinUI.Properties.Resources.resources
+E:\工作\Lottery\Lottery\CRD.WinUI\obj\Debug\CRD.WinUI.csproj.GenerateResource.Cache
+E:\工作\Lottery\Lottery\CRD.WinUI\obj\Debug\CRD.WinUI.dll
+E:\工作\Lottery\Lottery\CRD.WinUI\obj\Debug\CRD.WinUI.pdb
+D:\Work\workspace\workspace_visualstudio\lottery\Lottery\CRD.WinUI\bin\Debug\CRD.WinUI.dll.config
+D:\Work\workspace\workspace_visualstudio\lottery\Lottery\CRD.WinUI\bin\Debug\CRD.WinUI.dll
+D:\Work\workspace\workspace_visualstudio\lottery\Lottery\CRD.WinUI\bin\Debug\CRD.WinUI.pdb
+D:\Work\workspace\workspace_visualstudio\lottery\Lottery\CRD.WinUI\bin\Debug\CRD.Common.dll
+D:\Work\workspace\workspace_visualstudio\lottery\Lottery\CRD.WinUI\bin\Debug\CRD.Common.pdb
+D:\Work\workspace\workspace_visualstudio\lottery\Lottery\CRD.WinUI\obj\Debug\CRD.WinUI.csprojResolveAssemblyReference.cache
+D:\Work\workspace\workspace_visualstudio\lottery\Lottery\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EnterFrom1.resources
+D:\Work\workspace\workspace_visualstudio\lottery\Lottery\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EnterUserControl.resources
+D:\Work\workspace\workspace_visualstudio\lottery\Lottery\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.EntryForm.resources
+D:\Work\workspace\workspace_visualstudio\lottery\Lottery\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FormBase.resources
+D:\Work\workspace\workspace_visualstudio\lottery\Lottery\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FormBase1.resources
+D:\Work\workspace\workspace_visualstudio\lottery\Lottery\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.FunctionFormBase.resources
+D:\Work\workspace\workspace_visualstudio\lottery\Lottery\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MainForm.resources
+D:\Work\workspace\workspace_visualstudio\lottery\Lottery\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.MessageBoxForm.resources
+D:\Work\workspace\workspace_visualstudio\lottery\Lottery\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.SkinForm.resources
+D:\Work\workspace\workspace_visualstudio\lottery\Lottery\CRD.WinUI\obj\Debug\CRD.WinUI.Forms.TipForm.resources
+D:\Work\workspace\workspace_visualstudio\lottery\Lottery\CRD.WinUI\obj\Debug\CRD.WinUI.Misc.Button.resources
+D:\Work\workspace\workspace_visualstudio\lottery\Lottery\CRD.WinUI\obj\Debug\CRD.WinUI.Properties.Resources.resources
+D:\Work\workspace\workspace_visualstudio\lottery\Lottery\CRD.WinUI\obj\Debug\CRD.WinUI.csproj.GenerateResource.Cache
+D:\Work\workspace\workspace_visualstudio\lottery\Lottery\CRD.WinUI\obj\Debug\CRD.WinUI.dll
+D:\Work\workspace\workspace_visualstudio\lottery\Lottery\CRD.WinUI\obj\Debug\CRD.WinUI.pdb

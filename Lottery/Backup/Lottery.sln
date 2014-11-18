@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lottery", "Lottery\Lottery.csproj", "{8BD9BFB0-9639-46AC-A8BD-50FC99452575}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GlassButton", "GlassButton\GlassButton.csproj", "{73A80AFA-C186-477A-A564-6936605AB6F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRD.WinUI", "CRD.WinUI\CRD.WinUI.csproj", "{3DA5D631-16F3-4733-9FE0-71EEB24CD493}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CRD.Common", "CRD.Common\CRD.Common.csproj", "{7CF59281-C9BA-47CA-B049-644F55E86D36}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup1", "Setup1\Setup1.vdproj", "{26F8D072-5303-48BE-8BAC-F484E2B72FAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BD9BFB0-9639-46AC-A8BD-50FC99452575}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BD9BFB0-9639-46AC-A8BD-50FC99452575}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BD9BFB0-9639-46AC-A8BD-50FC99452575}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BD9BFB0-9639-46AC-A8BD-50FC99452575}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73A80AFA-C186-477A-A564-6936605AB6F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73A80AFA-C186-477A-A564-6936605AB6F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73A80AFA-C186-477A-A564-6936605AB6F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73A80AFA-C186-477A-A564-6936605AB6F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DA5D631-16F3-4733-9FE0-71EEB24CD493}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DA5D631-16F3-4733-9FE0-71EEB24CD493}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DA5D631-16F3-4733-9FE0-71EEB24CD493}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DA5D631-16F3-4733-9FE0-71EEB24CD493}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CF59281-C9BA-47CA-B049-644F55E86D36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CF59281-C9BA-47CA-B049-644F55E86D36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CF59281-C9BA-47CA-B049-644F55E86D36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CF59281-C9BA-47CA-B049-644F55E86D36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26F8D072-5303-48BE-8BAC-F484E2B72FAD}.Debug|Any CPU.ActiveCfg = Debug
+		{26F8D072-5303-48BE-8BAC-F484E2B72FAD}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

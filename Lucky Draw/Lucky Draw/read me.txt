@@ -1,0 +1,21 @@
+/*声明
+ * 
+ * 本随机抽奖系统由 
+ * 河北大学管理学院05信息管理与信息系统 朱胜贤
+ * 根据黑闪(http://blog.csdn.net/fjp813/)幸运999软件改编
+ * 功能基本上全部重写，借用了原软件的界面
+ * 程序供大家学习交流之用
+ * 
+ * 如有任何疑问请联系开发人员
+ * 
+ * 开发者：神在人间
+ * Email：zagelover@163.com   QQ:214535911
+ * http://hi.baidu.com/zagelover
+ * http://www.cnblogs.com/zagelover/
+ * 
+ * CopyRight (c) 河北大学管理学院05信管神仙 2008~2010
+ */
+
+
+
+
